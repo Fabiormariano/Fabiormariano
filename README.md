@@ -1,4 +1,5 @@
-# Olá Eu sou o Fábio
+# Olá Eu sou o Fábio ![image](https://github.com/Fabiormariano/Fabiormariano/assets/58739280/1a034edd-8848-41e5-90ff-2bcf70e6f122)
+
 
 -🕋 Hoje trabalho com projetos na Empresa Positivo Técnologia
 
