@@ -2,8 +2,8 @@
 
 
 -🕋 Hoje trabalho com projetos na Empresa Positivo Técnologia
-
--😀 Estudando Engenharia de Dados (FIAP)
+- 😀 TECNOLOGIA DA INFORMAÇÃO (UNICESUMAR)
+-😀 MBA Engenharia de Dados (FIAP)
 
 <div>  
 <picture>
