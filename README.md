@@ -1,7 +1,7 @@
 # Olá Eu sou o Fábio !😀
 
 
--🕋 Hoje trabalho com projetos na Empresa Positivo Técnologia
+-🕋 Trabalho com projetos na Empresa Positivo Técnologia em solução de tecnologias
 - 😀 TECNOLOGIA DA INFORMAÇÃO (UNICESUMAR)
 -😀 MBA Engenharia de Dados (FIAP)
 
